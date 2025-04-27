@@ -1,0 +1,42 @@
+Headline: Landing The ‘Elephant’ On China’s Aircraft Carriers! Engineers Work On ‘Computer Model’ To Land J-36 On Big Warships
+URL: https://www.eurasiantimes.com/perilous-dance-of-landing-the-j-36-on-an-aircraft-carrier/
+
+Landing The ‘Elephant’ On China’s Aircraft Carriers! Engineers Work On ‘Computer Model’ To Land J-36 On Big Warships
+By EurAsian Times Desk -
+April 26, 2025
+Share FacebookTwitterWhatsAppReddIt
+The design team of J-36, China’s next-gen aircraft, is working on a complex computer model to help pilots land the sixth-generation fighter jet on moving aircraft carriers, a risky and challenging task, given the aircraft’s size, weight, and radical three-engine design.
+Landing a fighter jet on an aircraft carrier is one of the most demanding tasks in aviation. It is a high-stakes maneuver in which precision, skill, and technology must align perfectly against the chaos of a moving deck, turbulent seas, and unpredictable weather.
+For China’s Chengdu J-36, a next-generation fighter still in its testing phase, the challenge is magnified by its radical design and ambitious role.
+A paper published last month in China’s top aviation journal, the peer-reviewed Acta Aeronautica et Astronautica Sinica, revealed that the engineers behind J-36 are now in the initial stages of developing a naval variant of the aircraft that took the world by storm when it was first spotted in December last year, the South China Morning Post reported.
+It said engineers working on the J-36 are developing an advanced computer-aided landing system to address the significant challenge of safely landing the tailless, tri-engine aircraft on an aircraft carrier.
+Tao Chenggang, deputy chief designer at the AVIC Chengdu Aircraft Design and Research Institute, stated in the paper that landing a sixth-generation aircraft on an aircraft carrier poses a “very high” risk to pilots.
+J-36. File Image.
+The challenges of carrier landings, combined with the J-36’s unconventional aerodynamics, make this an extraordinarily difficult endeavor.
+Most navies that operate carriers rely on aircraft designed with these limitations in mind. China’s current carrier jet, the J-15, is based on the Russian Su-33 and includes standard design features that help during low-speed flight, such as canards and vertical stabilizers.
+These features give the pilot more control when slowing down and lining up with the deck.
+The J-36 doesn’t follow that pattern. It lacks a tail and vertical stabilizers. Its control surfaces are more complex and designed with stealth and high-speed performance as priorities. At low speeds, these design choices become difficult to manage.
+The aircraft’s larger size and heavier weight increase its stall speed, meaning it has to come in faster than smaller jets. That makes it harder to stop in time and increases the risk of failure.
+It also has three engines. Managing thrust across three power plants, especially at low throttle settings, adds another layer of complexity.
+Small imbalances in power output can cause the aircraft to drift or rotate during final approach. In normal flight, this might be manageable, but during a carrier landing, it’s a serious problem.
+The J-36’s Design: A Stealthy Giant With Unruly Aerodynamics
+The J-36 is a heavy aircraft. Its landing gear reflects that. The front wheel is dual-wheeled, and the main gear uses tandem wheels, similar to those found on larger, land-based jets or even bombers.
+But this kind of gear adds weight and bulk. For carrier use, the aircraft also requires a tailhook, stronger arresting gear connections, and likely folding wings to conserve space on deck. All of this adds more mass and more complexity. Every addition has to be accounted for in the aircraft’s center of gravity, stealth profile, and handling.
+One of the more complex challenges faced during carrier landings is the ‘ship airwake,’ a disturbance in airflow caused by the motion of the aircraft carrier itself. As the ship moves through the water, it creates turbulent air currents that can destabilize an aircraft during its final approach, particularly in rough sea conditions when the deck is also in motion.
+To address this, engineers have developed a control mechanism known as ‘direct force control.’ Borrowed from the field of robotics, this system allows pilots to adjust lift directly without needing to alter the aircraft’s pitch.
+It applies mathematical models, including Jacobian matrices, and uses a Fixed Time Disturbance Observer to continuously assess flight conditions. This enables the aircraft to automatically counteract the impact of side winds and deck movement, even in seas with waves as high as six meters.
+The challenges aren’t only about the aircraft. They also involve the ships and how the J-36 would fit into carrier operations. China’s earlier carriers, Liaoning and Shandong, use ski-jump ramps for takeoff, which limits the weight an aircraft can carry when it launches.
+In contrast to the US Navy’s Magic Carpet system, which uses predetermined gain schedules for standard aircraft, the Chinese method treats each control surface as a flexible component.
+This allows the system to adjust in real-time, employing quick and efficient algorithms to continuously update inputs, thereby providing pilots with greater stability during the critical final moments of landing.
+Although the J-36 shows promise, it is still undergoing testing, and integrating it into China’s carrier fleet will take considerable time. By enabling stealthy, high-payload jets like the J-36 to operate from carriers, China aims to enhance its maritime strike capabilities and reinforce its deterrence.
+Via: ET News Desk
+Mail us at: editor (at) eurasiantimes.com
+Share
+Previous article
+Rafale, Mirage & Jaguar: IAF’s “Very Rare” Trio Of French-Origin Jets Gear-Up For Possible Clash With Pakistan
+Next article
+UK, France “Sabotaging” U.S. Efforts To End Ukraine War, Russian Intel Claims; Is Europe Keen On A Clash With Moscow? OPED
+EurAsian Times Desk
+https://www.eurasiantimes.com/
+The EurAsian Times Desk (ET Desk) comprises authors, reporters, interns, newswires, etc who directly work under the Editorial Desk of The EurAsian Times and senior Editors of the media house.
+

@@ -1,0 +1,59 @@
+Headline: Mirage-2000, F-16 & Swedish AEW&CS: Ukraine ‘Threatens’ Su-34, Su-35 Fighters With “Deadly Trio” Of Warplanes
+URL: https://www.eurasiantimes.com/ukraine-ups-the-ante-with-swedish-russian/
+
+Mirage-2000, F-16 & Swedish AEW&CS: Ukraine ‘Threatens’ Su-34, Su-35 Fighters With “Deadly Trio” Of Warplanes
+By Vijainder K Thakur -
+April 22, 2025
+Share FacebookTwitterWhatsAppReddIt
+On the afternoon of April 21, Flightradar24 data reportedly showed an aircraft circling over Lviv in western Ukraine, for the first time in a long while. The aircraft reportedly flew at an altitude of approximately 3 kilometers. Local residents reported hearing the flight and noted the loud sound of its propellers.
+There is speculation that the aircraft may have been one of the two Swedish ASC 890 AEW&C (Airborne Early Warning and Control) aircraft that Sweden pledged to Ukraine in May 2024. The transfer was part of a $1.2 billion (13.3 billion Swedish kronor) military aid package.
+In addition to the two ASC 890 AEW&C aircraft, the package included a missile system, armored vehicles, artillery shells, and air defense ammunition.
+ASC 890 AEW&CS
+The ASC 890 AEW&C is based on the Saab 340 aircraft platform and is equipped with the Erieye radar system, which provides 360-degree coverage and can track both airborne and surface targets.
+Saab produced a total of 12 such aircraft, with production ending in 1999. The two aircraft pledged to Ukraine will likely require only refurbishment before delivery.
+The detection range of the ASC 890, equipped with the Erieye radar, depends on factors such as target altitude, radar cross-section, and environmental conditions. Under optimal conditions, the radar can detect aerial targets at ranges of up to 450 kilometers.
+NATO AWACS Support
+U.S. and NATO E-3A Sentry AWACS (Airborne Warning and Control System) aircraft have supported Ukrainian forces since the start of the Russian Special Military Operation.
+(While AEW&C and AWACS are similar concepts—both involving airborne radar and command systems—AWACS typically refers to U.S. or NATO platforms like the E-3, whereas AEW&C is a broader term used for various such systems.)
+The E-3A, based on a modified Boeing 707 airframe, features a rotating radar dome housing the AN/APY-1 or AN/APY-2 radar. It can detect air and surface targets at ranges exceeding 400 km—and up to 800 km under optimal conditions—covering a surveillance area of over 310,000 square kilometers at an altitude of 30,000 feet.
+To avoid direct confrontation with Russian forces, E-3 Sentries usually operate just outside Ukrainian airspace, over countries like Poland and Romania. With aerial refueling support from U.S. and allied tankers, they can remain airborne for over 12 hours, ensuring near-continuous surveillance.
+Their Link 16 data link enables real-time information sharing with Ukrainian air defense systems—a key factor in Ukraine’s success in intercepting Russian missile and drone attacks.
+From Polish airspace, E-3s can monitor most of Belarus, including strategic Russian air bases like Baranovichi and Machulishchy.
+From Romania, their coverage extends into Crimea, allowing for the tracking of Russian air and naval movements, including aircraft such as the Su-30SM and Su-24M operating from Saki and Belbek air bases.
+ASC 890 Advantage
+The Swedish Saab 340 ASC 890 is less capable than the U.S. Boeing E-3 Sentry, with a shorter radar range (~400 km vs. up to 800 km) and limited endurance (approximately 5 hours vs. 12+ hours with refueling).
+Swedens-ASC-890-aircraft.-Source-flickr.com
+However, the ASC 890 offers Ukraine a critical fallback option should the U.S. withdraw its support—something U.S. officials have increasingly signaled as a possibility.
+More importantly, the ASC 890 provides a unique tactical advantage. Unlike the E-3 Sentry, which must operate from NATO airspace (e.g., Poland or Romania) to avoid direct escalation with Russia, the Ukrainian-operated ASC 890 can fly closer to the front lines.
+This proximity allows for near real-time surveillance of Russian aircraft, missiles, and drones.
+Equipped with the Erieye AESA radar and Link 16 integration, the ASC 890 would significantly enhance the lethality of Ukraine’s incoming F-16 and Mirage 2000 fighters armed with long-range air-to-air missiles.
+Still, operating within Ukrainian airspace brings heightened risk. The ASC 890 would be far more vulnerable to Russian long-range missile and air defense systems—raising both operational and survivability concerns.
+Russian Countermeasures
+Despite operating from the relative safety of Polish and Romanian airspace, NATO and U.S. E-3 Sentry aircraft remain wary of Russian MiG-31 BMs and Su-57s, which are armed with long-range R-37M air-to-air missiles with a range of up to 300 km.
+To mitigate this threat, E-3s are typically escorted by fighters such as the F-16s and Eurofighters.
+The Swedish ASC 890 AEW&CS, if operated within Ukrainian airspace, would be far more vulnerable to R-37M attacks. The missile has proven highly effective in air-to-air engagements between Russian and Ukrainian fighters. A slow-moving, large aircraft with limited maneuverability, like the ASC 890, would be a prime target.
+The Su-57, with its front-aspect stealth capabilities, could potentially approach within firing range without detection. Meanwhile, the high-flying MiG-31BM could exploit altitude gaps in the ASC 890’s radar coverage to launch its missile from above.
+Any Russian attempt to engage the ASC 890 would need to factor in the risk posed by NATO-deployed Patriot air defense systems in Ukraine. Conversely, these Patriot systems would be vulnerable to coordinated strikes involving Iskander-M or Kinzhal missiles launched alongside an ASC 890 shoot-down attempt.
+Additionally, Russia’s use of advanced electronic warfare systems such as the Krasukha-4 poses a significant threat. While the E-3’s radar is designed to operate in a contested EW environment, long-range jamming can still reduce its effectiveness near Russian airspace.
+The ASC 890, with a less powerful radar suite, would be even more susceptible to electronic warfare (EW) degradation.
+AEW&CS Enabled Offensive Potential
+The warfighting capabilities of weapon systems are rarely black and white. Ukraine will undoubtedly develop and deploy tactics to exploit the advantages of operating AEW&CS assets like the ASC 890 within its own airspace, just as Russian forces will adapt their strategies to counter them.
+The ASC 890 could provide Ukraine with the ability to strike Russian forces along the frontlines more frequently and with greater safety, something that has proven challenging so far.
+Its capacity to monitor contested airspace in real time and track threats would significantly enhance the operational effectiveness of Ukrainian F-16s and Mirage 2000s.
+File Image: Mirage 2000
+These fighters could use the information to safely navigate toward offensive strike corridors and better challenge Russian air dominance, such as the Su-35S, which routinely provides cover to Su-34 frontline bombers dropping UMPK-kitted glide bombs.
+Ukrainian F-16s are reportedly equipped with AIM-120C7 air-to-air missiles, which have a maximum range of approximately 120 km. Mirage 2000s currently carry MICA-EM and MICA-IR missiles with engagement ranges around 70 km.
+In the future, these aircraft could be armed with the next-generation MICA-NG, boasting a range of up to 110 km.
+The MICA-NG is a particularly potent missile, featuring a dual-pulse motor for exceptional end-game maneuverability and a jam-resistant AESA active seeker that enables reliable target lock-on, even in a contested electronic warfare environment.
+The combination of ASC 890 airborne early warning and targeting data with long-range missile-armed F-16s and Mirage 2000s would undoubtedly raise the attrition rate for Russian air defense fighters and frontline strike aircraft.
+It represents a significant shift in Ukraine’s ability to contest and shape the air domain over the battlefield.
+Vijainder K Thakur is a retired IAF Jaguar pilot, author, software architect, entrepreneur, and military analyst. 
+Follow the author @vkthakur
+Share
+Previous article
+U.S. Mulls Resurrecting “Frozen” Alaskan Island As A Frontline Military Base To Check Russian & Chinese Ambitions
+Next article
+15 Times “Deadlier’ Than TNT Blast, China’s New Non-Nuclear Hydrogen Bomb Could Melt Enemy Targets In A Jiffy
+Vijainder K Thakur
+Vijainder K Thakur is a retired IAF Jaguar pilot. He is also an author, software architect, entrepreneur, and military analyst. Reach out to the author at vkthakur (at) gmail.com
+

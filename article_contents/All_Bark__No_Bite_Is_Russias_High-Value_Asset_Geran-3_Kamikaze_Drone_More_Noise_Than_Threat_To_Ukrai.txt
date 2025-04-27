@@ -1,0 +1,53 @@
+Headline: All Bark & No Bite? Is Russia’s “High-Value Asset” Geran-3 Kamikaze Drone More Noise Than Threat To Ukraine?
+URL: https://www.eurasiantimes.com/high-value-asset-geran-3-kamikaze-drone-more-noise/
+
+All Bark & No Bite? Is Russia’s “High-Value Asset” Geran-3 Kamikaze Drone More Noise Than Threat To Ukraine?
+By Vijainder K Thakur -
+April 24, 2025
+Share FacebookTwitterWhatsAppReddIt
+On the night of April 22, Russian forces struck Odessa using Geran drones that emitted a noticeably louder and higher-pitched sound during their terminal dive compared to previously deployed Geran-2 variants.
+The altered acoustic signature led several typically reliable social media outlets to speculate that jet-powered Geran-3 drones had been used in the attack.
+However, no physical evidence—such as drone wreckage—has surfaced to substantiate the claim. For now, the speculation rests solely on the distinctive change in sound during the drones’ final approach.
+Shahed-238/Geran-3 Jet-Powered Drones
+In November 2023, Iran unveiled a jet-powered variant of the Shahed-236, designated the Shahed-238, during a public exhibition.
+Painted black—likely for visual stealth—the drone was claimed to be capable of carrying an electro-optical or radar seeker, a notable upgrade from the Shahed-236, which relies solely on inertial and satellite navigation to strike fixed coordinates.
+The first reported use of a jet-powered variant by Russian forces dates back to December 29, 2023, when Ukrainian sources claimed that Russia launched black “Geranium” kamikaze drones with jet engines during a large-scale infrastructure strike. These drones were reportedly coated with radar-absorbing material.
+In February 2024, leaked corporate documents from the Iranian company IRGC Sahara Thunder, discovered on a public server, confirmed the existence of the Shahed-238, referred to internally as the M-237.
+Shahed-238
+The drone was reported to be capable of speeds exceeding 600 km/h, a significant leap from the Shahed-136’s 180 km/h. It also featured a Nasir satellite anti-jamming receiver and was purportedly capable of targeting enemy drones.
+On February 18, 2025, Ukraine’s Main Directorate of Intelligence (HUR) officially reported that Russia had begun producing the Geran-3, equipped with an Iranian Tolou-10/13 turbojet engine. Ukrainian forces claimed to have intercepted several of these drones, one of which was tracked flying at over 515 km/h—nearly three times faster than the Geran-2.
+Russia is believed to have begun localized production of the Shahed-238 under the name “Geran-3”, with an estimated range of up to 2,500 km.
+Photos of drone wreckage circulating on social media closely match the design of the Shahed-238, which was previously showcased by Iran.
+Notably, since that initial reported deployment in late 2023, there have been no confirmed sightings or uses of the Geran-3, suggesting it may have been a limited trial or test run.
+Doubts Over Geran-3 Usage in Odessa 
+As previously mentioned, claims that Geran-3 drones were used in the April 22 strike on Odessa were based solely on the altered sound profile during the terminal dive. Ironically, despite being louder and higher-pitched, the acoustic signature lacked the defining characteristics of a jet turbine.
+A day later, similar sounds were reported during Geran drone attacks on Kharkov, further fueling speculation.
+According to the Military Informant Telegram channel, the change in sound is more plausibly linked to evolving swarm tactics.
+In these instances, multiple drones reportedly loiter at altitudes of 2,000–2,500 meters, just beyond the reach of mobile air defense units, before diving steeply onto their targets.
+During the descent, drones can reach speeds of up to 90 m/s, producing a louder, sharper whine, distinct from the low-pitched “moped” buzz typically associated with Geran-2 drones.
+While evidence of Russia’s use—or preparation to use—jet-powered Geran drones exists, it remains inconclusive. Wreckage reportedly linked to the Shahed-238 (Geran-3) around January 2024 lacks sufficient verification to be considered definitive proof.
+It’s also worth considering whether Ukrainian intelligence is amplifying the perceived threat posed by Russian experimentation with the Shahed-238—possibly to galvanize additional Western military aid.
+The more than year-long gap since the initial reported sighting of a jet-powered Geran raises important questions: Is Russia still setting up production lines, or has it deprioritized the platform altogether?
+The latter seems plausible, especially given Russia’s continued investment in upgrading the Geran-2, transforming it into an increasingly versatile and cost-effective strike platform.
+Geran-2 Upgrades
+Russia has steadily upgraded the Geran-2 drone since the start of the Special Military Operation, enhancing its stealth, accuracy, and lethality through a series of technological improvements.
+The use of carbon composites has reduced both the drone’s visual and radar signatures while lightening the airframe, allowing it to carry a larger, more destructive warhead, reportedly in the 60–70 kg range, up from the original 40–50 kg payload.
+Geran-2 Drones: Via: X
+Navigation has also improved significantly. The original GPS-based system has been replaced by a military-grade GLONASS SATNAV module, enhancing accuracy and resistance to jamming. The upgraded Kometa-M module, featuring 12 to 16 antennas, provides robust protection against electronic warfare.
+In October 2024, a video surfaced on social media, allegedly captured via the optical/thermal imaging seeker of a Geran-2 variant, suggesting the development of a precision-guided version.
+Further evidence came from a photo posted by the Military Informant Telegram channel, showing a Geran-2 equipped with an electro-optical seeker, reportedly displayed at the Special Technology Center (STC) in St. Petersburg.
+To support real-time targeting, Russia has reportedly developed communication relay variants of the Geran-2.
+These drones, operating alone or as part of a swarm, can transmit imagery captured by seeker-equipped drones back to an operator via single or multi-hop relays. This setup would enable the operator to designate targets in real time for kamikaze Geran-2 units, enhancing their effectiveness during the final approach.
+Conclusion
+Based on the Shahed-238, estimated to cost around $1.4 million, the Geran-3 would be a high-value asset, making it an expensive option for routine use.
+Its limited endurance would constrain its loitering capabilities, and its high cost, combined with lower operational flexibility, positions it more as a cruise missile analog than a traditional kamikaze drone.
+However, its ability to launch from ground-based catapult systems offers a unique tactical advantage. Unlike cruise missiles, which are typically launched from large, detectable platforms—such as strategic bombers, ships, or submarines—the Geran-3’s launch points would be harder to locate, complicating enemy preemptive strike efforts.
+Given these characteristics, it is plausible that the Geran-3 exists and may be deployed operationally in select scenarios. However, its high cost, limited numbers, and niche utility suggest it is unlikely to be fielded at a scale significant enough to shift the overall balance of the conflict.
+Share
+Previous article
+“Tornado” Strikes Australian Navy As Its Latest Boats Found To Be ‘Made In China’; Defense Department Clarifies
+Next article
+2nd Time In 2 Days, Chinese Citizens Caught For Possible Spying On South Korean Military Base; What’s Cooking?
+Vijainder K Thakur
+Vijainder K Thakur is a retired IAF Jaguar pilot. He is also an author, software architect, entrepreneur, and military analyst. Reach out to the author at vkthakur (at) gmail.com
+
