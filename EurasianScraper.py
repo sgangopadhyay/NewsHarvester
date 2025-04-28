@@ -41,11 +41,7 @@ class SumanNewsExtractor(Data, Locator):
         self.chrome_options.add_argument("--no-sandbox")
         self.chrome_options.add_argument("--disable-dev-shm-usage")
         # Initialize WebDriver
-        self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=self.chrome_options)
-
-    def __del__(self):
-        """Destructor to ensure browser is closed."""
-        self.driver.quit()
+        self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
     def sanitize_filename(self, filename):
         """Sanitize headline for valid filename."""
